@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <>
       <div className="w-full md:hidden bg-gray-300 p-1">
-        <p className="text-center text-[13px]">CopyrightⒸ Zaid Widyan</p>
+        <p className="text-center text-sm">Copy right</p>
       </div>
       <div className="grid grid-cols-1 text-center md:grid-cols-5 md:mt-5 bg-gray-100 px-5 md:px-32 md:py-14 text-gray-600 gap-5 divide-y-2 md:divide-x-2 md:divide-y-0 ">
         <div className="hidden md:inline space-y-4 text-xs text-gray-800 mt-4 ">
@@ -40,7 +40,7 @@ const Footer = () => {
           <p>Test Data</p>
         </div>
 
-        <div className=" text-xs text-gray-800 mt-4 grid grid-cols-6 md:block md:space-y-4">
+        <div className=" text-xs text-gray-800 mt-4 grid grid-cols-6">
           <h5 className="font-bold my-auto">HOST</h5>
           <p>ZW</p>
           <p>About</p>

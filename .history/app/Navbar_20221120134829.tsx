@@ -8,7 +8,6 @@ import {
   MenuIcon,
   UserCircleIcon,
   UsersIcon,
-  SearchIcon,
 } from "@heroicons/react/outline"
 const Navbar = () => {
   const [search, setSearch] = useState("")
@@ -40,10 +39,17 @@ const Navbar = () => {
             sm:w-[10rem] w-[5rem] text-xs text-center h-2/3 my-auto md:text-base"
           ></input>
           <button
-            className="active:scale-110 transition transform duration-125 ease-out md:mr-5 lg:ml-9"
+            className="active:scale-110 transition transform duration-125 ease-out"
             onClick={searchBarHandle}
           >
-            <SearchIcon className="w-[2.5rem] my-auto bg-red-300 rounded-full pl-2 pr-2 pt-2 pb-2  ml-1 hidden sm:block md:block lg:block text-white" />
+            <Image
+              objectFit="contain"
+              src="/magnifying-glass.png"
+              alt="idk"
+              height={20}
+              width={25}
+              className=" lg:w-[2.5rem] md:w-[2.5rem] sm:w-[2.5rem] w-[2.5rem] my-auto bg-red-300 rounded-full pl-2 pr-2 pt-2 pb-2  ml-1 hidden sm:block md:block lg:block"
+            ></Image>
           </button>
         </div>
         <div className="flex justify-end  space-x-4 items-center text-gray-500">

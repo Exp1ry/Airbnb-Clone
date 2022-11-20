@@ -40,7 +40,7 @@ const Footer = () => {
           <p>Test Data</p>
         </div>
 
-        <div className=" text-xs text-gray-800 mt-4 grid grid-cols-6 md:block md:space-y-4">
+        <div className=" text-xs text-gray-800 mt-4 grid grid-cols-6">
           <h5 className="font-bold my-auto">HOST</h5>
           <p>ZW</p>
           <p>About</p>
