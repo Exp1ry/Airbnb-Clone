@@ -54,7 +54,6 @@ const Navbar = () => {
             <UserCircleIcon className="h-6" />
           </div>
         </div>
-        <h1>Test</h1>
       </header>
     </>
   )
