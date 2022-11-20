@@ -1,0 +1,21 @@
+@tailwind base;
+* {
+  scrollbar-color: red yellow;
+  scrollbar-width: thin;
+
+  font-family: "Montserrat", monospace;
+  box-sizing: border-box;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 0px;
+}
+
+*::-webkit-scrollbar-track {
+  background: red;
+  border-radius: 5px;
+}
+
+@tailwind components;
+@tailwind utilities;
