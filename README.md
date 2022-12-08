@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i.postimg.cc/KzpRknYt/Screenshot-from-2022-11-21-00-07-58.png" alt="Logo" width="80" height="80">
+    <img src="https://i.postimg.cc/KzpRknYt/Screenshot-from-2022-11-21-00-07-58.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">AirBNB Replica</h3>
