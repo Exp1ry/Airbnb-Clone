@@ -64,7 +64,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.postimg.cc/KzpRknYt/Screenshot-from-2022-11-21-00-07-58.png)
 
 An AirBNB single page replica that is focused mainly on the design aspect of the site. Design was carefully orchastrated using TailwindCSS, which allowed me to create this beauitiful webpage.
 
@@ -77,7 +76,7 @@ An AirBNB single page replica that is focused mainly on the design aspect of the
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Next][Next.js]][Next-url]
-* [![Tailwindcss][Tailwindcss.com]][Tailwindcss-url]
+* ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -87,17 +86,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 
 
-Install the packages
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+
 
 ### Installation
 
 
 1. Clone the repo
-
+```sh
    git clone https://github.com/Exp1ry/Airbnb-Clone.git
    ```
 2. Install NPM packages
@@ -123,7 +118,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Zaid Widyan - [contributer-url](https://zaidwidyan.com) - fpszaid@gmail.com
+Zaid Widyan - [My Website](https://zaidwidyan.com) 
 
 Project Link: [https://github.com/xp1ry/Airbnb-Clone](https://github.com/xp1ry/Airbnb-Clone)
 
@@ -162,6 +157,6 @@ Project Link: [https://github.com/xp1ry/Airbnb-Clone](https://github.com/xp1ry/A
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[Tailwindcss-url]: https://tailwindcss.com
+[Tailwind-url]: https://tailwindcss.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
